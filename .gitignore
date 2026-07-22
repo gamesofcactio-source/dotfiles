@@ -17,14 +17,8 @@
 !fuzzel/
 !fuzzel/**
 
-!vim/
-!vim/**
-
-# Assets
-!Wallpapers/
-!Wallpapers/**
-!ScreenShots/
-!ScreenShots/**
+!nvim/
+!nvim/**
 
 # Allow README file
 !README.md
